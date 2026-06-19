@@ -159,8 +159,8 @@ PING @DANGER_BOY_OP1 (Telegram Community)
 
 | Platform | Handle | Link |
 |----------|--------|------|
-| 📨 Telegram | `@DANGER_BOY_OP` | Direct Contact |
-| 👥 Community | `@DANGER_BOY_OP1` | Join Us |
+| 📨 Telegram | `@DANGER_BOY_OP` | [Direct Contact](https://t.me/danger_boy_op) |
+| 👥 Community | `@DANGER_BOY_OP1` | [Join Us](https://t.me/danger_boy_op1) |
 | 📸 Instagram | `4n0nym0u5__010` | [Follow](https://www.instagram.com/4n0nym0u5__010) |
 
 </div>
@@ -172,14 +172,14 @@ PING @DANGER_BOY_OP1 (Telegram Community)
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
+╔════════════════════════════════════════════════════╗
+║                                                             ║
 ║   "The quieter you become, the more you are able to hear."  ║
-║                                          — Kali Linux        ║
-║                                                              ║
+║                                          — Kali Linux       ║
+║                                                             ║
 ║   Hack to learn. Learn to hack. Always stay ethical.        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+║                                                             ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DANGER&color=00ff41&style=flat-square&label=SYSTEM+VISITORS)
