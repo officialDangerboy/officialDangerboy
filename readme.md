@@ -204,7 +204,7 @@ class Danger:
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════╗
 ║  "The quieter you become, the more you are able to hear."    ║
 ║                                           — Kali Linux       ║
 ║                                                              ║
@@ -212,7 +212,7 @@ class Danger:
 ║                                                              ║
 ║   "Security is not about being paranoid.                     ║
 ║    It's about being prepared."                               ║
-╚════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════╝
 ```
 
 ### **`W3 4R3 4N0NYM0U5 — W3 D0 N0T F0RG3T`**
