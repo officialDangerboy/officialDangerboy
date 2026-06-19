@@ -9,7 +9,7 @@
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚══╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+OSINT+Analyst;Web+Pentester+%7C+CTF+Competitor;Red+Teaming+Enthusiast;Always+Learning;Hack+Ethically)](https://github.com/officialDangerboy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+OSINT+Analyst;Web+Pentester+%7C+CTF+Competitor;API+Security+Specialist+%7C+Red+Teamer;Hack+to+learn.+Learn+to+hack.)](https://github.com/officialDangerboy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=officialDangerboy&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
@@ -17,9 +17,26 @@
 
 ---
 
-## `$ whoami`
+## 📋 Quick Navigation
 
-A passionate **Security Researcher** and **Web Pentester** focused on discovering vulnerabilities and building stronger systems. Active CTF competitor, OSINT analyst, and continuous learner in the cybersecurity field.
+| Section | Link |
+|---------|------|
+| 👤 About Me | [whoami](#-whoami) |
+| 🔬 Active Projects | [current_projects.txt](#-cat-current_projectstxt) |
+| 🎯 Specializations | [skills.txt](#-cat-skillstxt) |
+| ⭐ Featured Work | [projects](#-featured-work--case-studies) |
+| 🛠️ Tools & Tech | [tools](#-ls-tools) |
+| 🏆 Achievements | [achievements](#-git-log---achievements) |
+| 📚 Learning Path | [certifications](#-cat-certifications_roadmaptxt) |
+| 📞 Connect | [contact](#-ping-community) |
+
+---
+
+## 👤 `$ whoami`
+
+**Security Researcher** | **Web Pentester** | **OSINT Analyst** | **CTF Competitor**
+
+> A passionate **Security Researcher** and **Web Pentester** focused on discovering vulnerabilities and building stronger systems. Specializing in **API Security**, **Authentication Bypass**, and **Server-Side Vulnerabilities**. Active CTF competitor (Team: 4N0NYM0U5), ranked in TryHackMe's **top 10%**, and continuous learner in the cybersecurity domain.
 
 ```python
 class Danger:
@@ -37,7 +54,7 @@ class Danger:
 
 ---
 
-## `$ cat current_projects.txt`
+## 🔬 `$ cat current_projects.txt`
 
 🔬 **Active Research & Development**
 
@@ -49,7 +66,22 @@ class Danger:
 
 ---
 
-## `$ cat skills.txt`
+## ⭐ `$ ls featured_work/`
+
+### Featured Work & Case Studies
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔐 **API Security Research** | In-depth analysis of authentication bypass techniques and OAuth 2.0 vulnerabilities | Ongoing |
+| 🌐 **OSINT Automation Framework** | Python-based toolkit for reconnaissance and intelligence gathering | Active Dev |
+| 🏆 **CTF Write-ups** | Technical write-ups and exploitation methodology from completed challenges | Published |
+| 🔍 **Open Source Contributions** | Bug fixes and features in security-focused projects | Regular |
+
+📌 **Note:** Check my [GitHub repositories](https://github.com/officialDangerboy?tab=repositories) for live projects and detailed documentation.
+
+---
+
+## 🎯 `$ cat skills.txt`
 
 ### 🔴 Offensive Security
 
@@ -153,11 +185,12 @@ class Danger:
 
 ### 🏆 Notable Achievements
 
-- **CTF Competitor** - Active participant in security competitions and capture-the-flag events
-- **TryHackMe Elite** - Ranked in top 10% with numerous completed rooms and achievements
+- **CTF Competitor** - Active participant in security competitions and capture-the-flag events with Team 4N0NYM0U5
+- **TryHackMe Elite** - Ranked in top 10% with 100+ completed rooms and consistent achievements
 - **Security Researcher** - Published technical write-ups and vulnerability analysis reports
-- **Open Source Contributor** - Contributing to security tools and community projects
-- **OSINT Expert** - Advanced techniques in reconnaissance and information gathering
+- **Open Source Contributor** - Active contributions to security tools and community projects
+- **OSINT Expert** - Advanced techniques in reconnaissance, OPSEC, and information gathering
+- **API Security Specialist** - Deep expertise in authentication bypass and OAuth vulnerabilities
 
 ---
 
@@ -171,6 +204,19 @@ class Danger:
 - Privilege escalation in Windows and Linux environments
 - Cloud security and misconfiguration exploitation
 - Containerization security (Docker & Kubernetes)
+- Red teaming methodologies and adversarial tactics
+
+---
+
+## 🤝 `$ cat collaboration.txt`
+
+**I'm Open To:**
+- 🔒 Security research collaborations
+- 🏆 CTF team partnerships
+- 🐛 Bug bounty initiatives
+- 🛠️ Open-source security project contributions
+- 📚 Technical article/write-up exchanges
+- 🎓 Knowledge sharing and mentoring
 
 ---
 
@@ -221,6 +267,6 @@ class Danger:
 
 ---
 
-<sub>Last Updated: 2026 | Keep Learning, Keep Growing 🚀</sub>
+<sub>Last Updated: June 2026 | Keep Learning, Keep Growing 🚀</sub>
 
 </div>
