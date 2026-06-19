@@ -9,7 +9,7 @@
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚══╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+OSINT+Analyst;Web+Pentester+%7C+CTF+Player;4N0NYM0U5+%7C+We+Are+Legion;Know+it.+Break+it.+Fix+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+OSINT+Analyst;Web+Pentester+%7C+CTF+Player;4N0NYM0U5+%7C+We+Are+Legion;Know+it.+Break+it.+Fix+it.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DANGER&color=00ff41&style=flat-square&label=VISITORS)
 
