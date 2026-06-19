@@ -17,6 +17,15 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Contribution Snake Animation](https://raw.githubusercontent.com/officialDangerboy/officialDangerboy/main/dist/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 ## 📋 Quick Navigation
 
 | Section | Link |
