@@ -1,26 +1,32 @@
-# 👨‍💻 Cybersecurity Enthusiast
+# 👨‍💻 Danger
 
-🔐 Learning:
-- Web Security
-- OSINT
+Cybersecurity Enthusiast | OSINT | Web Security
+
+## Featured Projects
+
+### 📍 GeoTracker
+Location and geolocation utility project.
+
+### 📧 TempMailBot
+Temporary email automation bot.
+
+### ☎️ Num-To-Info Bot
+Phone number information lookup bot.
+
+## Skills
+
 - Linux
-- Networking
-- Bug Bounty Hunting
-
-🛠 Skills
 - JavaScript
 - Node.js
 - React
 - Python
-- Linux
+- Networking
+- OSINT
 
-📚 Currently Studying
+## Learning
+
+- Web Application Security
 - OWASP Top 10
 - Burp Suite
 - Nmap
 - Wireshark
-
-🏆 Goals
-- Become Security Researcher
-- Participate in CTFs
-- Contribute to Open Source
